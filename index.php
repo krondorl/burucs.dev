@@ -136,6 +136,9 @@
     .social li:last-of-type:after {
       content: '';
     }
+    .work-img {
+      max-width: 90%;
+    }
     @media (min-width: 540px) {
       .flex-row {
         display: flex;
@@ -192,20 +195,32 @@
         <div class="flex-col center">
           <h3>Expackt</h3>
           <p>frontend development</p>
+          <p>
+            <a href="http://expackt.com/" target="_blank"><img class="work-img" src="img/work-expackt.jpg" alt="Expackt picture"></a>
+          </p>
         </div>
         <div class="flex-col center">
           <h3>Kezklinika</h3>
           <p>frontend development</p>
+          <p>
+            <a href="http://kezklinika.hu/" target="_blank"><img class="work-img" src="img/work-kezklinika.jpg" alt="Kezklinika picture"></a>
+          </p>
         </div>
       </div>
       <div class="flex-row">
         <div class="flex-col center">
           <h3>Deepsec</h3>
           <p>graphic design</p>
+          <p>
+            <a href="https://www.behance.net/gallery/36281959/Deepsec-Logo-and-Favicon-design" target="_blank"><img class="work-img" src="img/work-deepsec.png" alt="Deepsec picture"></a>
+          </p>
         </div>
         <div class="flex-col center">
           <h3>Taltosjogsi</h3>
           <p>frontend development, graphic design</p>
+          <p>
+            <a href="http://taltosjogsi.hu/" target="_blank"><img class="work-img" src="img/work-taltosjogsi.jpg" alt="Taltosjogsi picture"></a>
+          </p>
         </div>
       </div>
     </div>
