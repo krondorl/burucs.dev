@@ -13,7 +13,7 @@
       line-height: 1.5;
       margin: 0;
     }
-    a:link {
+    a:link, a:visited, a:hover, a:active {
       color: #fff;
     }
     h1, h2, h3, h4, h5, h6, p, blockquote, figure, ol, ul {
