@@ -193,10 +193,10 @@
       <h2 class="h2">Latest works</h2>
       <div class="flex-row">
         <div class="flex-col center">
-          <h3>Expackt</h3>
+          <h3>Online Trainer</h3>
           <p>frontend development</p>
           <p>
-            <a href="http://expackt.com/" target="_blank"><img class="work-img" src="img/work-expackt.jpg" alt="Expackt picture"></a>
+            <a href="https://onlinetrainer.hu/" target="_blank"><img class="work-img" src="img/ot.jpg" alt="Online Trainer picture"></a>
           </p>
         </div>
         <div class="flex-col center">
@@ -314,7 +314,7 @@
           </ul>
         </div>
       </div>
-      <p>My name is Adam Burucs I live in Europe, Budapest. I have got 18 years experience in creating websites and 10 years designing graphics. I reached the top3 position in the <a href="https://www.seacoastbank.com/" target="_blank">Seacoast Bank</a> webdesign contest in 2009.</p>
+      <p>My name is Adam Burucs I live in Europe, Budapest. I have got 19 years experience in creating websites and 11 years designing graphics. I reached the Top3 position in the <a href="https://www.seacoastbank.com/" target="_blank">Seacoast Bank</a> webdesign contest in 2009.</p>
 
       <div class="flex-row">
         <div class="flex-col">
@@ -367,6 +367,20 @@
   <article class="testimonials">
     <div class="container">
       <h2 class="h2">Testimonials</h2>
+      <blockquote>
+        <p>"Adam organized successful social events for building the team. He is a great co-worker."<br>
+        —
+        Sandor Teleki,
+        CIO,
+        Online Trainer</p>
+      </blockquote>
+      <blockquote>
+        <p>"He is a dependable guy with good knowledge. I hope we will be working together in the future."<br>
+        —
+        Gergo Darabont,
+        CEO,
+        Vivify Entertainment</p>
+      </blockquote>
       <blockquote>
         <p>"He is enthusiastic and made a good job with the Bizzabo project."<br>
         —
@@ -432,7 +446,7 @@
           <li><a href="https://www.behance.net/adamburucs" class="icon fa-behance" target="_blank"><span class="label">Behance</span></a></li>
         </ul>
       <p>Some icons from flaticon.com.</p>
-      <p>Hand coded with love in Budapest, 2016.</p>
+      <p>Hand coded with love in Budapest.</p>
       <a href="#top"><img class="arrow-top" src="img/arrow-top.svg" alt=""> Jump to top</a>
     </div>
   </footer>
